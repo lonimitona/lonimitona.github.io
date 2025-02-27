@@ -1,5 +1,3 @@
-![My Profile Photo](/assets/WhatsApp Image 2025-02-26 at 21.58.50_ecbf8967.jpg)
-
 # Biostatistician & Health Data Scientist  
 
 Hi there! 👋 I'm Lonimi Olatona, a Biostatistician & Health Data Scientist passionate about using statistical modeling, machine learning, and epidemiological research to drive evidence-based healthcare solutions.  
