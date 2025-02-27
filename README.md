@@ -1,6 +1,6 @@
 ![My Profile Photo](/assets/WhatsApp Image 2025-02-16 at 18.28.13_933c23cc.jpg)
 
-# 🩺 📊 Lonimi Olatona – Biostatistician & Health Data Scientist  
+# Biostatistician & Health Data Scientist  
 
 Hi there! 👋 I'm **Lonimi Olatona**, a **Biostatistician & Health Data Scientist** passionate about using **statistical modeling, machine learning, and epidemiological research** to drive evidence-based healthcare solutions.  
 
@@ -50,7 +50,7 @@ I specialize in **clinical data analysis, predictive modeling, and real-world ev
 
 ## 📬 **Let’s Connect!**
 💼 **Portfolio:** [yourwebsite.com](https://yourwebsite.com)  
-🔗 **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
+🔗 **LinkedIn:** [linkedin.com/in/yourusername](https://www.linkedin.com/in/lonimi-olatona/)  
 🐍 **GitHub:** [github.com/yourusername](https://github.com/yourusername)  
 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)  
 
