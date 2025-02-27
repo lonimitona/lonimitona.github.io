@@ -49,10 +49,10 @@ I specialize in **clinical data analysis, predictive modeling, and real-world ev
 ---
 
 ## 📬 **Let’s Connect!**
-💼 **Portfolio:** [yourwebsite.com](https://yourwebsite.com)  
+💼 **Portfolio:** [https://lonimitona.github.io/](https://lonimitona.github.io/)  
 🔗 **LinkedIn:** [linkedin.com/in/lonimi-olatona](https://www.linkedin.com/in/lonimi-olatona/)  
-🐍 **GitHub:** [github.com/yourusername](https://github.com/yourusername)  
-📧 **Email:** [your.email@example.com](mailto:your.email@example.com)  
+🐍 **GitHub:** [github.com/lonimitona](https://github.com/lonimitona)  
+📧 **Email:** [ocladitan@gmail.com](mailto:ocladitan@gmail.com)  
 
 I’m always open to collaborating on **health data science projects, clinical research, and public health analytics**. Let’s work together to turn data into meaningful insights! 🚀  
 
