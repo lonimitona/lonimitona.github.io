@@ -37,7 +37,7 @@ I specialize in clinical data analysis, predictive modeling, and real-world evid
 ---
 
 ## 📊 **Technical Skills**
-- **Programming & Statistics:** `R`, `Python`, `SAS`, `SQL`, `Matlab`  
+- **Programming & Statistics:** `R`, `Python`, `SPSS`, `SQL`, `SAS`  
 - **Statistical Modeling:** Regression, Bayesian Analysis, Mixed Effects, Time-Series Forecasting  
 - **Machine Learning:** Supervised & Unsupervised Learning, Predictive Analytics  
 - **Clinical Research:** Real-World Evidence (RWE), Observational Studies, Clinical Trial Analysis  
