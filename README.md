@@ -50,7 +50,7 @@ I specialize in **clinical data analysis, predictive modeling, and real-world ev
 
 ## 📬 **Let’s Connect!**
 💼 **Portfolio:** [yourwebsite.com](https://yourwebsite.com)  
-🔗 **LinkedIn:** [linkedin.com/in/yourusername](https://www.linkedin.com/in/lonimi-olatona/)  
+🔗 **LinkedIn:** [linkedin.com/in/lonimi-olatona](https://www.linkedin.com/in/lonimi-olatona/)  
 🐍 **GitHub:** [github.com/yourusername](https://github.com/yourusername)  
 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)  
 
