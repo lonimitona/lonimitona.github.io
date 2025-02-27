@@ -1,4 +1,4 @@
-![My Profile Photo](/assets/WhatsApp Image 2025-02-26 at 21.58.50_ecbf8967.jpg)
+
 
 # Biostatistician & Health Data Scientist  
 
