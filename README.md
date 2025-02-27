@@ -2,9 +2,9 @@
 
 # Biostatistician & Health Data Scientist  
 
-Hi there! 👋 I'm **Lonimi Olatona**, a **Biostatistician & Health Data Scientist** passionate about using **statistical modeling, machine learning, and epidemiological research** to drive evidence-based healthcare solutions.  
+Hi there! 👋 I'm Lonimi Olatona, a Biostatistician & Health Data Scientist passionate about using statistical modeling, machine learning, and epidemiological research to drive evidence-based healthcare solutions.  
 
-I specialize in **clinical data analysis, predictive modeling, and real-world evidence (RWE) analytics**, helping healthcare professionals make informed decisions using **data-driven insights**.  
+I specialize in clinical data analysis, predictive modeling, and real-world evidence (RWE) analytics, helping healthcare professionals make informed decisions using data-driven insights.  
 
 ---
 
