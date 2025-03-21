@@ -4,5 +4,4 @@ theme: jekyll-theme-minimal
 
 header_pages:
   - README.md
-  - about.md
   - projects.md
