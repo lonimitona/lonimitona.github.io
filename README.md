@@ -1,6 +1,6 @@
 # 🎯 Public Health & Data Strategy | Program Analyst | Researcher | Policy Contributor 
 
-Hi there! 👋 I'm Lonimi and I'm passionate about using data, storytelling, and policy to create meaningful impact—particularly in health, humanitarian, and community-driven contexts. With a strong foundation in public health and experience working with non-profits, international organizations, and newcomer-serving agencies, I bring a human-centered approach to data, research, and systems thinking.
+## Hi there! 👋 I'm Lonimi and I'm passionate about using data, storytelling, and policy to create meaningful impact—particularly in health, humanitarian, and community-driven contexts. With a strong foundation in public health and experience working with non-profits, international organizations, and newcomer-serving agencies, I bring a human-centered approach to data, research, and systems thinking.
 ---
 
 ## 🧠 **What I Do**
