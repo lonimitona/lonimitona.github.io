@@ -13,7 +13,10 @@
 ---
 
 ## 📂 **Featured Projects**
-### ✨ Coming Soon: I’m currently curating and updating projects to reflect my work across public health, data, and policy. 
+
+### [🍼 Breastfeeding Intention Analysis](/projects/breastfeeding-intention/)
+A complete data science workflow exploring what influences pregnant mothers in Wales to breastfeed. Includes decision tree modeling and survival analysis using R.
+
 
 ---
 
