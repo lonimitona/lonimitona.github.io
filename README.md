@@ -14,7 +14,7 @@
 
 ## 📂 **Featured Projects**
 
-### [🍼 Breastfeeding Intention Analysis](/projects/breastfeeding-intention/)
+### [🍼 Breastfeeding Intention Analysis](/projects/breastfeeding-intention-analysis/)
 A complete data science workflow exploring what influences pregnant mothers in Wales to breastfeed. Includes decision tree modeling and survival analysis using R.
 
 
