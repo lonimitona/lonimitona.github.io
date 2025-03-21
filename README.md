@@ -1,38 +1,28 @@
-# Biostatistician & Health Data Scientist  
+# 🎯 Public Health & Data Strategy | Program Analyst | Researcher | Policy Contributor 
 
-Hi there! 👋 I'm Lonimi, a Biostatistician & Health Data Scientist passionate about using statistical modeling, machine learning, and epidemiological research to drive evidence-based healthcare solutions.  
-
-I specialize in clinical data analysis, predictive modeling, and real-world evidence (RWE) analytics, helping healthcare professionals make informed decisions using data-driven insights.  
-
+Hi there! 👋 I'm Lonimi and I'm passionate about using data, storytelling, and policy to create meaningful impact—particularly in health, humanitarian, and community-driven contexts. With a strong foundation in public health and experience working with non-profits, international organizations, and newcomer-serving agencies, I bring a human-centered approach to data, research, and systems thinking.
 ---
 
-## 🔬 **What I Do**
-✔ **Survival Analysis & Risk Prediction** – Identifying key risk factors for disease progression  
-✔ **Clinical Trials & Epidemiological Research** – Designing and analyzing observational & interventional studies  
-✔ **Statistical Modeling & Data Science** – Regression, Bayesian inference, time-series forecasting  
-✔ **Public Health & Real-World Data Analytics** – Working with EHR/EMR data, geospatial epidemiology, and treatment effectiveness  
-✔ **Data Visualization & Reporting** – Communicating insights through interactive dashboards & reports  
+## 🧠 **What I Do**
+✔ **📊 Data Analysis & Visualization** – Creating clean, impactful data stories using Python, R, Power BI, and Excel. 
+✔ **🧪 Public Health Research** – From maternal and child health to social determinants of health, I use mixed methods to surface actionable insights. 
+✔ **🗂️ Program & Policy Support** – Designing, coordinating, and evaluating evidence-based programs in the non-profit and public sectors.
+✔ **📎 Knowledge Translation** – Simplifying complex data and research into accessible reports, dashboards, and presentations for diverse stakeholders. 
+
 
 ---
 
 ## 📂 **Featured Projects**
-### 🏥 **Predicting Hospital Readmission Risks**
-- Developed a **Cox Proportional Hazards Model** to predict patient **readmission likelihood**  
-- Used **Kaplan-Meier survival analysis** to estimate time-to-readmission probabilities  
-- **Tech Stack:** `R`, `survival`, `ggplot2`, `tidyverse`, `SQL`, `Tableau`  
-🔗 **[View Project](https://github.com/yourusername/hospital-readmission-risk)**  
+### ✨ Coming Soon: I’m currently curating and updating projects to reflect my work across public health, data, and policy. 
 
-### 💊 **Analyzing Treatment Effectiveness in Clinical Trials**
-- Conducted **propensity score matching (PSM)** to compare treatment effects in real-world studies  
-- Applied **mixed-effects models** to assess longitudinal patient outcomes  
-- **Tech Stack:** `R`, `lme4`, `SAS`, `Python (Pandas, Scikit-learn)`, `Power BI`  
-🔗 **[View Project](https://github.com/yourusername/clinical-trial-analysis)**  
+---
 
-### 🌍 **Geospatial Epidemiology: Mapping Disease Outbreaks**
-- Built an **interactive map** to track **infectious disease hotspots** across multiple regions  
-- Used **spatial regression modeling** to analyze environmental & social determinants of health  
-- **Tech Stack:** `R`, `sf`, `ggplot2`, `QGIS`, `Python (Folium, Geopandas)`  
-🔗 **[View Project](https://github.com/yourusername/disease-mapping)**  
+## 🌍 **Experience Snapshot**
+- **World Health Organization (WHO)** – Supported large-scale immunization efforts and field validation during national campaigns. 
+- **Statistical Modeling:** Regression, Bayesian Analysis, Mixed Effects, Time-Series Forecasting  
+- **Machine Learning:** Supervised & Unsupervised Learning, Predictive Analytics  
+- **Data Visualization:** `Tableau`, `Power BI` 
+- **Public Health & Epidemiology:** Survival Analysis, Risk Modeling, Geospatial Analysis  
 
 ---
 
@@ -40,8 +30,7 @@ I specialize in clinical data analysis, predictive modeling, and real-world evid
 - **Programming & Statistics:** `R`, `Python`, `SPSS`, `SQL`, `SAS`  
 - **Statistical Modeling:** Regression, Bayesian Analysis, Mixed Effects, Time-Series Forecasting  
 - **Machine Learning:** Supervised & Unsupervised Learning, Predictive Analytics  
-- **Clinical Research:** Real-World Evidence (RWE), Observational Studies, Clinical Trial Analysis  
-- **Data Visualization:** `ggplot2`, `Shiny`, `Tableau`, `Power BI`, `Matplotlib`, `Seaborn`  
+- **Data Visualization:** `Tableau`, `Power BI` 
 - **Public Health & Epidemiology:** Survival Analysis, Risk Modeling, Geospatial Analysis  
 
 ---
@@ -52,7 +41,7 @@ I specialize in clinical data analysis, predictive modeling, and real-world evid
 🐍 **GitHub:** [github.com/lonimitona](https://github.com/lonimitona)  
 📧 **Email:** [ocladitan@gmail.com](mailto:ocladitan@gmail.com)  
 
-I’m always open to collaborating on **health data science projects, clinical research, and public health analytics**. Let’s work together to turn data into meaningful insights! 🚀  
+I’m always open to collaborations, research partnerships, or opportunities where I can apply my skills to solve real-world challenges. 🚀  
 
 
 
