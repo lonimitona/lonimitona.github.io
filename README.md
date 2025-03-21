@@ -4,10 +4,10 @@ Hi there! 👋 I'm Lonimi and I'm passionate about using data, storytelling, and
 ---
 
 ## 🧠 **What I Do**
-✔ 📊** Data Analysis & Visualization** – Creating clean, impactful data stories using Python, R, Power BI, and Excel. 
-✔ 🧪** Public Health Research** – From maternal and child health to social determinants of health, I use mixed methods to surface actionable insights. 
-✔ 🗂️** Program & Policy Support** – Designing, coordinating, and evaluating evidence-based programs in the non-profit and public sectors.
-✔ 📎** Knowledge Translation** – Simplifying complex data and research into accessible reports, dashboards, and presentations for diverse stakeholders. 
+- 📊** Data Analysis & Visualization** – Creating clean, impactful data stories using Python, R, Power BI, and Excel. 
+- 🧪** Public Health Research** – From maternal and child health to social determinants of health, I use mixed methods to surface actionable insights. 
+- 🗂️** Program & Policy Support** – Designing, coordinating, and evaluating evidence-based programs in the non-profit and public sectors.
+- 📎** Knowledge Translation** – Simplifying complex data and research into accessible reports, dashboards, and presentations for diverse stakeholders. 
 
 
 ---
