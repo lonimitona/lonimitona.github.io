@@ -19,10 +19,9 @@ Hi there! 👋 I'm Lonimi and I'm passionate about using data, storytelling, and
 
 ## 🌍 **Experience Snapshot**
 - **World Health Organization (WHO)** – Supported large-scale immunization efforts and field validation during national campaigns. 
-- **Statistical Modeling:** Regression, Bayesian Analysis, Mixed Effects, Time-Series Forecasting  
-- **Machine Learning:** Supervised & Unsupervised Learning, Predictive Analytics  
-- **Data Visualization:** `Tableau`, `Power BI` 
-- **Public Health & Epidemiology:** Survival Analysis, Risk Modeling, Geospatial Analysis  
+- **Action Health Incorporated** – Led health education and youth-focused advocacy, created M&E tools, and produced policy briefs. 
+- **Immigrant Services Calgary**  – Developed data strategies to improve policy alignment and newcomer service delivery. 
+- **Academic Research (MPH & MSc)** Academic Research (MPH & MSc)  
 
 ---
 
