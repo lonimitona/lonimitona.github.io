@@ -21,8 +21,7 @@
 - **World Health Organization (WHO)** – Supported large-scale immunization efforts and field validation during national campaigns. 
 - **Action Health Incorporated** – Led health education and youth-focused advocacy, created M&E tools, and produced policy briefs. 
 - **Immigrant Services Calgary**  – Developed data strategies to improve policy alignment and newcomer service delivery. 
-- **Academic Research (MPH & MSc)** Studied breastfeeding intention, malnutrition, and early childhood obesity in diverse populations. 
-
+- **Academic Research (MPH & MSc)** – Studied breastfeeding intention, malnutrition, and early childhood obesity in diverse populations.
 ---
 
 ## 📊 **Technical Skills**
