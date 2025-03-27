@@ -78,9 +78,7 @@ In public health, this kind of insight can inform **tailored interventions**, he
 
 This project not only strengthened my R skills but also deepened my understanding of how data can drive better public health strategies. As someone passionate about maternal and child health, I’m excited to keep exploring how data can guide more compassionate, effective policy and programming.
 
-You can check out the full code and data workflow on [GitHub](#) (link coming soon!).
-
-If you're working in maternal health or health policy and want to chat, feel free to [connect with me](mailto:oclani@gmail.com) — I'd love to hear from you!
+You can check out the full code and data workflow on [GitHub](#).
 
 ---
 
