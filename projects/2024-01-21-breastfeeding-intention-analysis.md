@@ -14,9 +14,9 @@ permalink: /projects/2024-01-21-breastfeeding-intention-analysis.md/
 
 ## 👋 Background
 
-As part of my postgraduate work in public health, I had the opportunity to explore a dataset collected from pregnant women in Wales. The goal was to investigate what influences a mother’s **intention to breastfeed**, and how these intentions connect to actual behaviors over time.  
+As part of my postgraduate work in health data science, I had the opportunity to explore a dataset collected from pregnant women in Wales. The goal was to investigate what influences a mother’s **intention to breastfeed**, and how these intentions connect to actual behaviors over time.  
 
-This wasn’t just an academic exercise—it was an opportunity to follow a full data science workflow, applying real-world analytical techniques to a meaningful topic in maternal and infant health.
+This wasn’t just an academic exercise, but an opportunity to follow a full data science workflow, applying real-world analytical techniques to a meaningful topic in maternal and infant health.
 
 ---
 
