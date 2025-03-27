@@ -1,3 +1,9 @@
+---
+layout: page
+title: Home
+permalink: /
+---
+
 <img src="/assets/WhatsApp Image 2025-02-26 at 21.58.50_ecbf8967.jpg" alt="Lonimi Olatona" width="200" />
 
 # Public Health & Data Strategy | Program Analyst | Researcher | Policy Contributor 
