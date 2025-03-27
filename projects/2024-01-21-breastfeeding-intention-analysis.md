@@ -11,7 +11,6 @@ permalink: /projects/2024-01-21-breastfeeding-intention-analysis.md/
 
 *How I used R to analyze intention and behavior around breastfeeding among pregnant women in Wales.*
 
-#<img src="/assets/ChatGPT Image Mar 27, 2025, 11_06_19 AM.png" alt="Mother breastfeeding her baby" width="70%" style="border-radius: 8px; margin-top: 10px;">
 
 ## 👋 Background
 
