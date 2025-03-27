@@ -4,8 +4,8 @@ title: "What Influences a Pregnant Mother's Intention to Breastfeed?"
 date: 2024-01-21
 header:
   image: /assets/ChatGPT Image Mar 27, 2025, 11_06_19 AM.png
-categories: [Projects, Public Health]
-tags: [data-analysis, R, survival-analysis, maternal-health]
+#categories: [Projects, Public Health]
+#tags: [data-analysis, R, survival-analysis, maternal-health]
 permalink: /projects/2024-01-21-breastfeeding-intention-analysis.md/
 ---
 
