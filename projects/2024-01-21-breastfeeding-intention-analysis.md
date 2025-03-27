@@ -4,7 +4,7 @@ title: "What Influences a Pregnant Mother's Intention to Breastfeed?"
 date: 2024-01-21
 categories: [Projects, Public Health]
 tags: [data-analysis, R, survival-analysis, maternal-health]
-permalink: /projects/breastfeeding-intention-analysis/
+permalink: /projects/2024-01-21-breastfeeding-intention-analysis.md/
 ---
 
 *How I used R to analyze intention and behavior around breastfeeding among pregnant women in Wales.*
