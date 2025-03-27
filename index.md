@@ -6,6 +6,7 @@
 ### Hi there! 👋 I'm Lonimi and I'm passionate about using data, storytelling, and policy to create meaningful impact, particularly in health, humanitarian, and community-driven contexts. With a strong foundation in public health and experience working with non-profits, international organizations, and newcomer-serving agencies, I bring a human-centered approach to data, research, and systems thinking.
 ---
 
+
 ## 🧠 **What I Do**
 - **Data Analysis & Visualization** – Creating clean, impactful data stories using Python, R, Power BI, and Excel. 
 - **Public Health Research** – From maternal and child health to social determinants of health, I use mixed methods to surface actionable insights. 
