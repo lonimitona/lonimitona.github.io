@@ -5,7 +5,7 @@ date: 2024-01-21
 categories: [Projects, Public Health]
 tags: [data-analysis, R, survival-analysis, maternal-health]
 permalink: /projects/breastfeeding-intention-analysis/
-image: /assets/ChatGPT Image Mar 27, 2025, 11_06_19 AM.png
+<img src="/assets/ChatGPT Image Mar 27, 2025, 11_06_19 AM.png" alt="Mother breastfeeding her baby" width="100%" style="border-radius: 8px; margin-top: 10px;">
 ---
 
 *How I used R to analyze intention and behavior around breastfeeding among pregnant women in Wales.*
