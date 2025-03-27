@@ -2,5 +2,5 @@ title: Lonimi Olatona
 theme: jekyll-theme-minimal
 
 header_pages:
-  - README.md
+  - index.md
   - projects.md
