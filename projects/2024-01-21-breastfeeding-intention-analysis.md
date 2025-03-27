@@ -78,7 +78,7 @@ In public health, this kind of insight can inform **tailored interventions**, he
 
 This project not only strengthened my R skills but also deepened my understanding of how data can drive better public health strategies. As someone passionate about maternal and child health, I’m excited to keep exploring how data can guide more compassionate, effective policy and programming.
 
-You can check out the full code and data workflow on [GitHub]([(https://github.com/lonimitona/Breastfeeding-Intention/blob/main/Data%20Modeling%20Project-%20Annotated%20Script.Rmd)]).
+You can check out the full code and data workflow on [github.com/lonimitona/Breastfeeding-Intention/blob/main/Data%20Modeling%20Project-%20Annotated%20Script.Rmd](https://github.com/lonimitona/Breastfeeding-Intention/blob/main/Data%20Modeling%20Project-%20Annotated%20Script.Rmd).
 
 ---
 
