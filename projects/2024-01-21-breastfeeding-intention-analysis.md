@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "What Influences a Pregnant Mother's Intention to Breastfeed?"
 date: 2024-01-21
 categories: [Projects, Public Health]
